@@ -1,0 +1,879 @@
+LYRA-STYLE BUDGET TRACKER — BRAND COLORS
+=============================================
+Purpose:
+A warm, personal financial-control app for women ages 25–40.
+The product should feel like "my private money space" rather than a bank dashboard.
+
+CORE BRAND IDEA
+---------------
+Emotional feeling:
+- Safe
+- Calm
+- Personal
+- Capable
+- Grown-up
+- Soft without feeling childish
+- Financially organized without feeling corporate
+
+The visual language should communicate:
+"I am in control of my money."
+NOT:
+"The bank is monitoring my money."
+
+Avoid a traditional banking aesthetic:
+- Avoid corporate navy + bright green combinations.
+- Avoid excessive blue-on-white dashboards.
+- Avoid hard black borders.
+- Avoid aggressive red/green financial signals.
+- Avoid glossy fintech gradients.
+- Avoid overly saturated colors.
+- Avoid making every element look like a financial instrument.
+- Avoid excessive cards, separators, and dense tables.
+
+Brand personality:
+CALM + FEMININE + MODERN + TRUSTWORTHY + PERSONAL
+
+
+MASTER PALETTE — 10 BRAND COLORS
+---------------------------------
+
+01. MIDNIGHT NAVY
+HEX: #111827
+RGB: 17, 24, 39
+Role:
+- Dark-mode foundation
+- Main dark background
+- Large navigation areas
+- Primary dark text surfaces
+
+Meaning:
+Grounding, safety, depth, privacy.
+
+Usage:
+Dark mode background should feel like a calm evening space, not a corporate dashboard.
+
+
+02. DEEP NAVY
+HEX: #18233A
+RGB: 24, 35, 58
+Role:
+- Dark-mode secondary background
+- Sidebar
+- Large containers
+- Secondary navigation surfaces
+
+Usage:
+Use to create hierarchy inside dark mode without using black.
+
+
+03. SOFT LAVENDER
+HEX: #A98FD1
+RGB: 169, 143, 209
+Role:
+- Main brand accent
+- Primary buttons
+- Active states
+- Key actions
+- Progress indicators
+- Selected controls
+- Brand moments
+
+Meaning:
+Personal, calm, creative, feminine, reassuring.
+
+This is the MAIN BRAND COLOR.
+
+
+04. DUSTY PLUM
+HEX: #6A5A8A
+RGB: 106, 90, 138
+Role:
+- Strong accent
+- Icons
+- Secondary buttons
+- Borders
+- Labels
+- Charts
+- Hover/pressed variations
+
+Usage:
+More grounded than lavender. Use when lavender would be too light.
+
+
+05. PERIWINKLE BLUE
+HEX: #8BA3DE
+RGB: 139, 163, 222
+Role:
+- Secondary accent
+- Supporting charts
+- Calendar elements
+- Income-related visuals
+- Secondary highlights
+- Information states
+
+Meaning:
+Clarity, openness, confidence.
+
+Important:
+Use as a supporting color, not as the dominant brand color.
+Do not let the interface become a generic blue finance app.
+
+
+06. SOFT BLUSH
+HEX: #F4DCE8
+RGB: 244, 220, 232
+Role:
+- Soft backgrounds
+- Gentle highlight areas
+- Empty-state surfaces
+- Personalization moments
+- Goal/progress backgrounds
+- Subtle dashboard sections
+
+Meaning:
+Warmth, comfort, personal ownership.
+
+Use in small-to-medium areas.
+Do NOT use as the entire interface background.
+
+
+07. WARM ROSE
+HEX: #D7A7BC
+RGB: 215, 167, 188
+Role:
+- Hero accent
+- Feminine visual accent
+- Selected secondary states
+- Small illustrations
+- Marketing moments
+- Decorative emphasis
+
+Meaning:
+Warm, mature femininity.
+
+This is the preferred "hook" accent for visual/marketing moments when the design needs a warmer feminine touch.
+
+Keep it muted and sophisticated, never hot pink.
+
+
+08. WARM CREAM
+HEX: #FBF8F5
+RGB: 251, 248, 245
+Role:
+- Main light-mode background
+- App canvas
+- Large empty areas
+
+Meaning:
+Comfort, softness, calm.
+
+This should replace pure white as the default page background where possible.
+
+
+09. SOFT SAGE
+HEX: #A8BFAF
+RGB: 168, 191, 175
+Role:
+- Positive status
+- Savings completed
+- Healthy progress
+- Paid bills
+- Successful actions
+
+Meaning:
+Growth and reassurance.
+
+Use muted sage rather than bright financial green.
+
+
+10. MUTED TERRACOTTA
+HEX: #C98787
+RGB: 201, 135, 135
+Role:
+- Negative status
+- Overdue bills
+- Spending warnings
+- Errors
+- Financial risk indicators
+
+Meaning:
+Attention without panic.
+
+Use only when something genuinely needs attention.
+Do not flood the UI with red.
+
+
+COLOR TOKENS
+------------
+
+Brand:
+--brand-primary: #A98FD1
+--brand-primary-strong: #6A5A8A
+--brand-secondary: #8BA3DE
+--brand-warm-accent: #D7A7BC
+
+Neutral:
+--dark-bg: #111827
+--dark-surface: #18233A
+--light-bg: #FBF8F5
+--light-surface: #FFFFFF
+
+Support:
+--soft-blush: #F4DCE8
+--soft-sage: #A8BFAF
+--muted-danger: #C98787
+
+
+LIGHT THEME
+-----------
+
+Page background:
+#FBF8F5
+
+Main surface / cards:
+#FFFFFF
+
+Primary text:
+#302A35
+
+Secondary text:
+#706777
+
+Muted text:
+#958D99
+
+Main border:
+#E7E0E8
+
+Soft border:
+#EEE8F0
+
+Primary action:
+#8D72B5
+Hover:
+#795DA2
+Pressed:
+#684F8D
+
+Secondary action:
+#8BA3DE
+
+Soft brand background:
+#F0EAF7
+
+Soft blush background:
+#F4DCE8
+
+Positive:
+#6F947C
+Positive background:
+#E7F0EA
+
+Warning:
+#A98550
+Warning background:
+#F5ECDD
+
+Danger:
+#A96868
+Danger background:
+#F6E7E7
+
+
+DARK THEME
+----------
+
+IMPORTANT:
+Dark mode must feel like a calm midnight personal space.
+Do NOT turn the screen into a black fintech terminal.
+
+Page background:
+#111827
+
+Sidebar / secondary background:
+#18233A
+
+Cards:
+#1B2740
+
+Elevated cards / modals:
+#202D47
+
+Primary text:
+#F5F1F7
+
+Secondary text:
+#C5BDCC
+
+Muted text:
+#91899A
+
+Border:
+#2D3952
+
+Subtle border:
+#253149
+
+Primary accent:
+#B69BD9
+
+Primary hover:
+#C2A9E2
+
+Secondary accent:
+#9CB1E8
+
+Soft lavender surface:
+#292540
+
+Soft blush surface:
+#332936
+
+Positive:
+#A8C7B2
+
+Warning:
+#D8BA87
+
+Danger:
+#D69A9A
+
+IMPORTANT DARK MODE RULE:
+Lavender and periwinkle must sit ON TOP of midnight navy.
+They should appear luminous and gentle, not neon.
+Do not introduce random saturated colors that compete with the midnight background.
+
+
+SEMANTIC COLOR SYSTEM
+---------------------
+
+PRIMARY
+Primary actions:
+- Add income
+- Add expense
+- Add bill
+- Save
+- Create goal
+- Confirm
+Color: Soft Lavender
+
+SECONDARY
+Secondary actions:
+- View details
+- Filters
+- Calendar interactions
+- Supporting selections
+Color: Periwinkle
+
+POSITIVE
+Use Soft Sage for:
+- Paid
+- Saved
+- Completed
+- On track
+- Positive cash flow
+
+WARNING
+Use muted warm amber tones for:
+- Due soon
+- Budget getting close
+- Needs attention
+
+DANGER
+Use muted terracotta for:
+- Overdue
+- Failed
+- Overspent
+- Invalid input
+
+NEUTRAL
+Use cream, white, navy, plum-gray neutrals for most of the interface.
+
+
+UI COMPONENT COLOR MAPPING
+--------------------------
+
+NAVIGATION
+Light:
+- Background: #FFFFFF
+- Active item background: #F0EAF7
+- Active icon/text: #6A5A8A
+- Inactive text: #706777
+
+Dark:
+- Background: #18233A
+- Active item background: #292540
+- Active icon/text: #B69BD9
+- Inactive text: #C5BDCC
+
+SIDEBAR:
+Should feel like a calm personal workspace.
+Avoid bright accent bars stretching across the entire sidebar.
+
+
+BUTTONS
+Primary:
+- Background: #8D72B5
+- Text: #FFFFFF
+- Hover: #795DA2
+- Pressed: #684F8D
+
+Secondary:
+- Background: transparent
+- Border: #D8CEE1
+- Text: #6A5A8A
+
+Soft button:
+- Background: #F0EAF7
+- Text: #6A5A8A
+
+Danger:
+- Background: muted terracotta
+- Use sparingly.
+
+
+INPUT FIELDS
+Light:
+- Background: #FFFFFF
+- Border: #E3DCE6
+- Text: #302A35
+- Placeholder: #958D99
+- Focus border: #A98FD1
+- Focus ring: #A98FD1 at low opacity
+
+Dark:
+- Background: #18233A
+- Border: #2D3952
+- Text: #F5F1F7
+- Placeholder: #91899A
+- Focus border: #B69BD9
+- Focus ring: #B69BD9 at low opacity
+
+Inputs should feel soft and approachable, not like banking forms.
+
+
+CARDS
+-------
+Cards are containers, not decoration.
+
+Light:
+- Background: #FFFFFF
+- Border: #E7E0E8
+- Shadow: very soft, low-opacity neutral shadow
+
+Dark:
+- Background: #1B2740
+- Border: #2D3952
+- Shadow: subtle only
+
+Avoid stacking cards inside cards unless hierarchy truly requires it.
+
+
+CHIPS / TAGS
+------------
+Use tinted backgrounds instead of strong outlines.
+
+Examples:
+Lavender:
+background #F0EAF7
+text #6A5A8A
+
+Blush:
+background #F8EAF0
+text #8B6375
+
+Sage:
+background #E7F0EA
+text #587462
+
+Warning:
+background #F5ECDD
+text #80633B
+
+Danger:
+background #F6E7E7
+text #8F5959
+
+
+CHARTS
+------
+
+Charts should feel editorial and calm rather than financial-terminal-like.
+
+Preferred chart sequence:
+1. Soft Lavender #A98FD1
+2. Periwinkle #8BA3DE
+3. Warm Rose #D7A7BC
+4. Soft Sage #A8BFAF
+5. Dusty Plum #6A5A8A
+
+For dark mode, slightly brighten:
+1. #B69BD9
+2. #9CB1E8
+3. #D8B2C5
+4. #A8C7B2
+5. #8E7AAF
+
+Chart rules:
+- Do not use rainbow palettes.
+- Do not use bright green for every positive number.
+- Do not use red and green as the only differentiators.
+- Keep grid lines extremely subtle.
+- Let the data breathe.
+- Use accent colors only when they carry meaning.
+
+
+MONEY / FINANCIAL STATES
+------------------------
+
+Income:
+Use neutral + lavender/periwinkle.
+Do not make every income number bright green.
+
+Savings:
+Use Soft Sage when highlighting progress.
+
+Spending:
+Use neutral plum/gray by default.
+Use Rose or Terracotta only when emphasis is necessary.
+
+Overspending:
+Muted Terracotta.
+
+Paid:
+Soft Sage.
+
+Due Soon:
+Muted warm amber.
+
+Overdue:
+Muted Terracotta.
+
+Goal progress:
+Lavender base with Soft Sage completion state.
+
+
+BACKGROUND STRATEGY
+-------------------
+
+The interface should be approximately:
+
+70% neutrals
+20% brand/support colors
+10% status/decorative accents
+
+Large surfaces:
+- Warm Cream
+- White
+- Midnight Navy
+- Deep Navy
+
+Medium surfaces:
+- Soft Lavender tints
+- Soft Blush
+- Very subtle Periwinkle
+
+Small accents:
+- Warm Rose
+- Sage
+- Terracotta
+- Dusty Plum
+
+Never make the entire page lavender/pink.
+The softness comes from restraint.
+
+
+GRADIENTS
+---------
+
+Use gradients only for large decorative/hero moments.
+
+Primary gradient:
+#F4DCE8 -> #A98FD1
+
+Cool gradient:
+#F0EAF7 -> #8BA3DE
+
+Dreamy gradient:
+#F4DCE8 -> #EEF0FB -> #A98FD1
+
+Dark ambient gradient:
+#111827 -> #18233A -> #292540
+
+Rules:
+- Large, slow gradients only.
+- No neon gradients.
+- No intense glossy fintech gradients.
+- No gradient on every card/button.
+
+
+SHADOWS
+-------
+
+Light mode:
+Use warm-neutral, very soft shadows.
+
+Preferred visual:
+- low opacity
+- large blur
+- low spread
+- very subtle elevation
+
+Dark mode:
+Use almost no visible shadow.
+Create hierarchy primarily through surface color and borders.
+
+Never use:
+- harsh black shadows
+- huge floating-card shadows
+- glossy reflections
+
+
+BORDER RULES
+------------
+
+Default:
+1px solid #E7E0E8 (light)
+1px solid #2D3952 (dark)
+
+Borders should be:
+- quiet
+- rounded
+- low contrast
+- supportive
+
+Do not outline every element.
+Use whitespace and surface contrast first.
+
+
+TYPOGRAPHY COLOR RULES
+----------------------
+
+Headings:
+Light: #302A35
+Dark: #F5F1F7
+
+Body:
+Light: #514957
+Dark: #D5CEDA
+
+Secondary:
+Light: #706777
+Dark: #C5BDCC
+
+Muted:
+Light: #958D99
+Dark: #91899A
+
+Accent text:
+Use Dusty Plum or Soft Lavender.
+
+Avoid pure #000000 and pure #FFFFFF for long-form UI text.
+
+
+ACCESSIBILITY
+-------------
+
+Target WCAG AA contrast for normal text whenever practical.
+
+Important:
+- Never use Soft Blush as text on white.
+- Never use Soft Lavender as small text on white unless contrast is sufficient.
+- For small text, use Dusty Plum or a darker neutral.
+- Status colors must always have a readable text color and/or an icon.
+- Never rely on color alone to communicate paid, overdue, warning, or success.
+- Pair status colors with labels, icons, patterns, or state text.
+
+Examples:
+"Paid" + check icon + sage tint
+"Due soon" + clock icon + warm amber tint
+"Overdue" + alert icon + terracotta tint
+
+
+VISUAL HIERARCHY
+----------------
+
+1. Neutral background
+2. Important financial number
+3. Primary action
+4. Supporting information
+5. Status
+6. Decorative accent
+
+The user should immediately understand:
+- What money do I have?
+- What needs attention?
+- What can I do next?
+
+Color must support hierarchy, not create noise.
+
+
+FEMININE DIRECTION
+------------------
+
+The goal is mature femininity, not stereotypical pink UI.
+
+Use:
+- muted lavender
+- dusty plum
+- warm rose
+- cream
+- soft blush
+- gentle periwinkle
+
+Avoid:
+- hot pink
+- bubblegum pink
+- excessive flowers/hearts
+- childish pastel rainbow
+- glitter effects
+- candy-like UI
+
+The design should feel appropriate for a 25–40-year-old adult woman who wants something beautiful, private, and useful.
+
+
+"NOT A BANK APP" VISUAL RULES
+-----------------------------
+
+DO:
+- Use warm cream backgrounds.
+- Give the dashboard breathing room.
+- Use rounded corners.
+- Use soft tinted sections.
+- Use human language.
+- Highlight personal progress.
+- Make numbers feel understandable.
+- Make the app feel owned by the user.
+- Use subtle visual delight.
+- Use illustrations/sparkles/cloud-like decoration only as accents.
+
+DO NOT:
+- Build everything as tables.
+- Use corporate blue as the main accent.
+- Use hard-edged data grids everywhere.
+- Use bright green for money.
+- Use red everywhere.
+- Use dense KPI-wall layouts.
+- Make every section look like an enterprise analytics product.
+- Overuse gradients.
+- Overuse shadows.
+- Use strong black outlines.
+
+
+PERSONAL "SAFE SPACE" DIRECTION
+-------------------------------
+
+The emotional sequence should be:
+
+ENTER APP
+-> "This feels calm."
+
+SEE MONEY
+-> "I understand what's happening."
+
+SEE TASKS / BILLS
+-> "I know what needs attention."
+
+TAKE ACTION
+-> "That was easy."
+
+LEAVE APP
+-> "I have control."
+
+The UI should never create:
+- panic
+- guilt
+- urgency for no reason
+- corporate pressure
+- fear around money
+
+Use color to reassure and organize, not to emotionally punish.
+
+
+IMPLEMENTATION RULE
+-------------------
+
+When building the app, define semantic CSS variables first.
+
+Example:
+
+:root {
+  --color-bg: #FBF8F5;
+  --color-surface: #FFFFFF;
+  --color-text: #302A35;
+  --color-text-secondary: #706777;
+  --color-border: #E7E0E8;
+
+  --color-primary: #8D72B5;
+  --color-primary-hover: #795DA2;
+  --color-secondary: #8BA3DE;
+
+  --color-lavender-soft: #F0EAF7;
+  --color-blush: #F4DCE8;
+  --color-rose: #D7A7BC;
+
+  --color-success: #6F947C;
+  --color-warning: #A98550;
+  --color-danger: #A96868;
+}
+
+Dark mode should override the semantic variables rather than hardcoding new colors throughout components.
+
+NEVER hardcode random hex colors inside individual components if an existing semantic token can be used.
+
+
+COMPONENT CONSISTENCY RULE
+--------------------------
+
+One semantic meaning = one color family.
+
+Examples:
+- Primary action -> lavender
+- Secondary action/info -> periwinkle
+- Positive -> sage
+- Warning -> warm amber
+- Negative -> terracotta
+
+Do not assign random colors to different tabs simply because they need to "look different."
+
+Tabs may have different visual accents, but they must remain inside this brand palette.
+
+
+DESIGNER'S ONE-SENTENCE TEST
+----------------------------
+
+Before adding a color, ask:
+
+"Does this make the user's financial space feel calmer, more personal, and more understandable?"
+
+If not, do not add the color.
+
+
+FINAL BRAND DIRECTION
+---------------------
+
+The app should look like:
+A beautiful private money journal + control center.
+
+Not:
+A bank.
+Not:
+An accounting spreadsheet.
+Not:
+An enterprise finance dashboard.
+Not:
+A childish pink budgeting app.
+
+Core visual formula:
+MIDNIGHT NAVY
++ WARM CREAM
++ SOFT LAVENDER
++ DUSTY PLUM
++ PERIWINKLE
++ MUTED ROSE
++ VERY RESTRAINED STATUS COLORS
+
+Overall impression:
+"Beautiful enough that I want to open it.
+Calm enough that I am not scared of my finances.
+Clear enough that I always know what to do next."
